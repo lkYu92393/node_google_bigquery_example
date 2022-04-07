@@ -1,0 +1,16 @@
+{
+  "name": "demo_get_google_data",
+  "version": "1.0.0",
+  "description": "Provide api to get big query data as json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.11.0",
+    "express": "^4.17.3",
+    "moment": "^2.29.1"
+  }
+}
